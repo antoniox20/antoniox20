@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mi***
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 Ingeniero en Sistemas.
 
@@ -13,6 +13,7 @@ Me interesa el diseño web, el desarrollo  y el marketing digital.
 - 📚 Seguir aprendiendo cada día sobre tecnologías Frontend y Backend, fortaleciendo mis habilidades y explorando nuevas herramientas. 😅
 - 💪🏼 Metas a futuro: continuar aprendiendo nuevas tecnologías y nunca dejar de crear ideas innovadoras.
 - 📫 Mi correo: <a href="mailto:antoniotaboada777@gmail.com">antoniotaboada777@gmail.com</a>
+- 🔗 GitHub: <a href="https://github.com/antoniox20/" target="_blank">https://github.com/antoniox20/</a>
 ---
 <details>
 <summary>Tecnologías que uso</summary>
