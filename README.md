@@ -1,8 +1,8 @@
 
-<h1 align="center">Hola!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Antonio Taboada</h1>
+<h1 align="center">Hello!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Antonio Taboada</h1>
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mi***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***about me***
 
 <img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
@@ -16,7 +16,7 @@ Me interesa el diseño web, el desarrollo  y el marketing digital.
 - 🔗 GitHub: <a href="https://github.com/antoniox20/" target="_blank">https://github.com/antoniox20/</a>
 ---
 <details>
-<summary>Tecnologías que uso</summary>
+<summary>Technologies I use</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
